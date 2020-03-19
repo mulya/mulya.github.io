@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg width="905" height="1600" xmlns="http://www.w3.org/2000/svg">
-	<polyline points="750,-5 640,115 450,115 450,1155 185,1155 0,970" style="fill:none;stroke:black;stroke-width:3" />
-	<polyline points="0,220 215,220 215,520 390,520 740,830 80,830 80,1330 440,1330 440,1600" style="fill:none;stroke:black;stroke-width:3" />
-	<polygon points="80,830 450,830 450,1155 185,1155 80,1050" style="fill:rgb(250,255,0);stroke:black;stroke-width:3" />
-</svg>
